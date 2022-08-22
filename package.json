@@ -1,0 +1,21 @@
+{
+  "name": "agwemedia",
+  "displayName": "flutterish dark",
+  "description": "A beautiful flutter dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flutterish Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Flutterish Dark-color-theme.json"
+      }
+    ]
+  }
+}
