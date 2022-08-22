@@ -1,11 +1,13 @@
 {
-  "name": "agwemedia",
-  "displayName": "flutterish dark",
+  "name": "flutterish-dark",
+  "displayName": "Flutterish Dark",
   "description": "A beautiful flutter dark theme",
+  "publisher": "agwemedia",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
   },
+  "icon": "my_logo.jpeg",
   "categories": [
     "Themes"
   ],
