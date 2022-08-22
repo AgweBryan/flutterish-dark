@@ -8,6 +8,31 @@
     "vscode": "^1.70.0"
   },
   "icon": "my_logo.jpeg",
+  "author": {
+    "name": "Agwe Bryan",
+    "email": "agwebryanmunakwa@gmail.com",
+    "url": "https://github.com/AgweBryan/"
+  },
+  "repository": {
+    "url": "https://github.com/AgweBryan/flutterish-dark",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/AgweBryan/flutterish-dark/issues"
+  },
+  "keywords": [
+    "Darkish",
+    "Dark",
+    "XCode",
+    "Black",
+    "iOS",
+    "Agwemedia",
+    "Flutter",
+    "Dart",
+    "Theme",
+    "Ayu",
+    "Material"
+  ],
   "categories": [
     "Themes"
   ],

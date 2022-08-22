@@ -1,16 +1,20 @@
-# agwemedia README
 
-## Working with Markdown
+# Flutterish Dark
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A beautiful flutter dark theme. May or may not look like the colors of xcode 😄.
+[![3.0.5 Flutter](https://img.shields.io/badge/Flutter-3.0.5-blue)](https://flutter.io)  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+[![](https://img.shields.io/badge/flutterish%20dark-%200.0.1-orange)](https://github.com/AgweBryan/flutterish-dark)
 
-## For more information
+[![](https://img.shields.io/badge/Agwe%20Bryan-author-red)](https://github.com/AgweBryan/)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+## Screenshots
+
+![App Screenshot](screenshots/s1.png)
+
+![App Screenshot](screenshots/s2.png)
+
+
 
 **Enjoy!**
